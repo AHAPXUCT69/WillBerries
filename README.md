@@ -1,9 +1,9 @@
-# WillBerries -учебный проект в GLO Academy
+# WillBerries -учебный проект в GLO Academy. 
 Выполнил проект Сластенин Николай
-##В проекте использовались языки:
+## В проекте использовались языки:
 - HTML
 - CSS
 - JavaScript
-###Библиотеки:
+### Библиотеки:
 - Bootstrap v.4
 - Swiper SLider JS
