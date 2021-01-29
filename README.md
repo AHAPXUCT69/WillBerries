@@ -6,4 +6,4 @@
 - JavaScript
 ### Библиотеки:
 - Bootstrap v.4
-- Swiper SLider JS
+- Swiper Slider JS
